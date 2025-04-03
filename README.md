@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on something novel
 - 📫 How to reach me ... you can't (if you still want to, just meet me in person)
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: Apparently, you can run JavaScript in .pdf (don't ask me why).
+- ⚡ Fun fact: Apparently, Linus was asked by his wife to come to a date via webmail.
 
 <!---
 adityasanapala/adityasanapala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
