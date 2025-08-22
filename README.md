@@ -1,9 +1,9 @@
 ## Hello, world! 👋
 
 - 👋 Hello there, I’m @adityasanapala
-- 👀 I’m interested in Systems Design, Ownership Model in Rust, Security in Computer Architecture and Open-Source Standards
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Automata Theory, Networks, Programming Paradigms and VR Design
+- 👀 I’m interested in Compiler Design, Systems Design, Ownership Model in Rust, Security in Computer Architecture and Open-Source Standards
+- 🔭 I’m currently working on Microarchitecture for SAT Solvers and Measurement of Wireless Network Stability
+- 🌱 I’m currently learning Automata Theory, Networks, Programming Paradigms and Digital Image Processing
 - 💞️ I’m looking to collaborate on something novel
 - 💬 Ask me about anything, (I never promised that I would answer...)
 - 📫 How to reach me ... you can't (if you still want to, just meet me in person)
