@@ -1,6 +1,7 @@
 ## Hello, world! 👋
 
 - 👋 Hello there, I’m @adityasanapala
+<!-- - 🎓💻🧬 I'm currently affiliated with the Departments of Computer Science, Electrical Engineering, Economics and IDC -->
 - 👀 I’m interested in Compiler Design, Systems Design, Ownership Model in Rust, Security in Computer Architecture and Open-Source Standards
 - 🔭 I’m currently working on Microarchitecture for SAT Solvers and Measurement of Wireless Network Stability
 - 🌱 I’m currently learning Automata Theory, Networks, Programming Paradigms and Digital Image Processing
